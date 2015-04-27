@@ -1,0 +1,238 @@
+ number of spheres, volume size parameter:
+   10  0.21544E+01
+ position file:
+positions.pos                 
+ output file:
+results.dat                   
+ length, ref. indx. scale factors:
+   1.000   1.400   0.100
+ chiral factors:
+  0.00000E+00  0.00000E+00
+ thetamin, thetamax, num. theta:
+      0.0    180.0  181
+ epsmie, epssoln, max number iterations:
+  0.1000E-03  0.1000E-06 5000
+ far field kr, iterations/correction:
+ -0.1000E+01   20
+ plane wave incidence
+ fixed orientation calculations
+ scattering plane, incident alpha, beta:
+     0.00     0.00     0.00
+ common expansion epsilon:
+  0.1000E-05
+ scattering coefficients calculated, stored in file 
+amn_temp.dat                  
+ near field calculated, stored in file 
+nf-temp.dat                   
+ near field data output option: 
+   2
+ near field plane, position: 
+   1    0.000
+ near field plane vertices: 
+  -20.000  -20.000   20.000   20.000
+ spacial step size:
+   0.2000
+ polarization angle, deg.:
+     0.00
+ plane wave epsilon:
+  0.10000E-01
+ sphere S.P., pos. (x,y,z), ref. index, Qext, Qsca, Qabs, Qabs/Qabs,LM
+    1    1.0000    0.0000    0.0000    0.0000  1.400000  0.100000          NaN          NaN          NaN     NaN
+    2    1.0000   -0.2077   -0.7416    1.8458  1.400000  0.100000          NaN          NaN          NaN     NaN
+    3    1.0000    0.2129    0.7420   -1.8450  1.400000  0.100000          NaN          NaN          NaN     NaN
+    4    1.0000    0.5829    1.5417   -3.6405  1.400000  0.100000          NaN          NaN          NaN     NaN
+    5    1.0000    0.5638    2.2080   -5.5261  1.400000  0.100000          NaN          NaN          NaN     NaN
+    6    1.0000   -0.5208   -1.1855    3.7706  1.400000  0.100000          NaN          NaN          NaN     NaN
+    7    1.0000    0.7513    2.8609   -7.4072  1.400000  0.100000          NaN          NaN          NaN     NaN
+    8    1.0000   -0.6657   -1.8514    5.6509  1.400000  0.100000          NaN          NaN          NaN     NaN
+    9    1.0000   -1.1297   -2.5351    7.4722  1.400000  0.100000          NaN          NaN          NaN     NaN
+   10    1.0000   -1.6223   -3.2894    9.2578  1.400000  0.100000          NaN          NaN          NaN     NaN
+ unpolarized total ext, abs, scat efficiencies, w.r.t. xv, and asym. parm
+          NaN          NaN          NaN          NaN
+ parallel total ext, abs, scat efficiencies
+          NaN          NaN          NaN
+ perpendicular total ext, abs, scat efficiencies
+          NaN          NaN          NaN
+ scattering matrix elements
+ theta    s11         s22/s11     s33/s11     s44/s11     s21/s11     s32/s11     s43/s11     s31/s11     s42/s11     s41/s11
+    0.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+    1.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+    2.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+    3.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+    4.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+    5.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+    6.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+    7.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+    8.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+    9.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   10.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   11.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   12.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   13.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   14.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   15.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   16.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   17.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   18.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   19.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   20.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   21.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   22.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   23.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   24.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   25.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   26.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   27.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   28.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   29.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   30.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   31.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   32.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   33.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   34.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   35.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   36.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   37.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   38.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   39.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   40.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   41.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   42.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   43.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   44.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   45.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   46.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   47.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   48.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   49.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   50.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   51.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   52.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   53.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   54.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   55.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   56.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   57.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   58.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   59.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   60.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   61.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   62.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   63.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   64.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   65.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   66.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   67.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   68.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   69.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   70.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   71.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   72.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   73.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   74.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   75.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   76.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   77.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   78.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   79.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   80.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   81.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   82.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   83.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   84.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   85.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   86.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   87.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   88.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   89.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   90.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   91.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   92.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   93.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   94.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   95.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   96.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   97.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   98.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+   99.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  100.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  101.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  102.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  103.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  104.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  105.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  106.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  107.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  108.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  109.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  110.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  111.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  112.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  113.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  114.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  115.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  116.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  117.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  118.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  119.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  120.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  121.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  122.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  123.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  124.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  125.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  126.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  127.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  128.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  129.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  130.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  131.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  132.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  133.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  134.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  135.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  136.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  137.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  138.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  139.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  140.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  141.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  142.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  143.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  144.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  145.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  146.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  147.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  148.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  149.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  150.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  151.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  152.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  153.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  154.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  155.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  156.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  157.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  158.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  159.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  160.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  161.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  162.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  163.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  164.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  165.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  166.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  167.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  168.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  169.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  170.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  171.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  172.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  173.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  174.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  175.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  176.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  177.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  178.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  179.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN
+  180.00         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN

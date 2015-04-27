@@ -1,0 +1,38 @@
+ number of spheres, volume size parameter:
+  200  0.58480E+01
+ position file:
+positions.pos                 
+ output file:
+test.dat                      
+ length, ref. indx. scale factors:
+   1.000   1.400   0.100
+ chiral factors:
+  0.00000E+00  0.00000E+00
+ thetamin, thetamax, num. theta:
+      0.0    180.0  181
+ epsmie, epssoln, max number iterations:
+  0.1000E-03  0.1000E-06 5000
+ far field kr, iterations/correction:
+ -0.1000E+01   20
+ plane wave incidence
+ fixed orientation calculations
+ scattering plane, incident alpha, beta:
+     0.00     0.00     0.00
+ common expansion epsilon:
+  0.1000E-05
+ scattering coefficients calculated, stored in file 
+amn_temp.dat                  
+ near field calculated, stored in file 
+nf-temp.dat                   
+ near field data output option: 
+   2
+ near field plane, position: 
+   1    0.000
+ near field plane vertices: 
+  -20.000  -20.000   20.000   20.000
+ spacial step size:
+   0.2000
+ polarization angle, deg.:
+     0.00
+ plane wave epsilon:
+  0.10000E-01
