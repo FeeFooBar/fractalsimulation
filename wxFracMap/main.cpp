@@ -7,6 +7,12 @@
  * The main function can be run cross-platform and provides access to
  * written utilities for fractal generation and analysis.
  */
+ 
+ /*
+  * Edited by: Feras Aldahlawi
+  * Date: July, 2011
+  *
+  */
 
 #include <iostream>
 #include <vector>
